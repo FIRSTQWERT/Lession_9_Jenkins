@@ -17,7 +17,7 @@ public class AutomationPracticeForm extends TestBase {
             email = faker.internet().emailAddress(),
             gender = "Other",
             mobile = faker.number().digits(10),
-            dayOfBirth = "100",
+            dayOfBirth = "1000",
             monthOfBirth = "May",
             yearOfBirth = "1988",
             subject1 = "Chemistry",
